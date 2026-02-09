@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umrah</h1>
 <h3 align="center">Software Developer and Data Scientist !!</h3>
 
-- 🔭 I’m currently working on **Deep learning**
-
-- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
+- 🔭 **Msc Data Science Student**
 
 - 📫 How to reach me **umrahazargar@gmail.com**
 
