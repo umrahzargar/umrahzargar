@@ -6,7 +6,7 @@
 
 ### About Me
 
-* 🎓 MSc Data Science student at the University of Nottingham
+* 🎓 MSc Data Science student in United Kingdom
 * 💼 Previous experience as a Product Manager and Business Analyst in a fintech data platform
 * 📊 Interested in Data Science, Machine Learning, NLP, Big Data, Analytics, and Business Intelligence
 * 🔭 Currently working on Transformer-Based Named Entity Recognition with Calibrated Boundary Uncertainty Extraction
