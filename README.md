@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umrah </h1>
 
-<h3 align="center">MSc Data Science Candidate | Python • SQL • Machine Learning • NLP • Big Data</h3>
+<h3 align="center">MSc Data Science Student | Python • SQL • Machine Learning • NLP • Big Data</h3>
 
 ---
 
